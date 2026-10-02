@@ -1,6 +1,6 @@
 # Online Java Compiler
 
-A basic local Java compiler website using Java 25, Spring Boot, Thymeleaf, HTML and CSS. It uses no JavaScript.
+A basic local Java compiler website using Java 25, Spring Boot, Thymeleaf, HTML and CSS.
 
 ## Requirements
 - JDK 25; both `java -version` and `javac -version` should work.
